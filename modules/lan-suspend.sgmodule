@@ -1,6 +1,0 @@
-#!name=lan-suspend
-#!desc=Suspend surge when connected to home network.
-#!system=ios
-
-[SSID Setting]
-ROUTER:10.0.1.1 suspend=true
